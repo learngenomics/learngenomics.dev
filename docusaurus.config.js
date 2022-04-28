@@ -7,7 +7,8 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: "Introduction to Genomics for Engineers",
-  tagline: "Introduction to Genomics for Engineers",
+  tagline:
+    "A guided, intuitive introduction to genomics for software engineers.",
   url: "https://learngenomics.dev",
   baseUrl: "/",
   onBrokenLinks: "throw",
