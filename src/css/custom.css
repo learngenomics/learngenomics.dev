@@ -70,9 +70,6 @@
 /** Make hero background the viewport height. **/
 .hero {
   height: 100vh;
-}
-
-.main-wrapper {
   margin-top: -60px;
 }
 
