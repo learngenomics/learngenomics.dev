@@ -4,8 +4,6 @@
   </a>
 </p>
 
-----
-
 [Learn Genomics] is a guide that aims to introduce the subject of genomics to software engineers and data scientists in a palatable, straightforward manner. It was originally written by software engineers at St. Jude Children's Research Hospital, and now it has grown to a community-maintained project.
 
 ### Quickstart
