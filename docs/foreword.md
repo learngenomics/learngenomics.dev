@@ -4,6 +4,12 @@ sidebar_position: 0
 
 # Foreword
 
+:::caution
+
+This guide is still being written and revised for public consumption. I would not yet consider it ready to be broadly shared. Please read with that in mind for now! — Clay
+
+:::
+
 After graduating with a degree in Computer Science, I took a job as a Software Engineer working in the exciting world of genomic data analysis. The goal is simple but powerful: identify what has changed in an individual's DNA and to understand how those changes relate to outwardly, phenotypic changes (such as developing cancer). As a software engineer, I was trained to take my computational knowledge and apply it to any number of domains. For the domains I had worked in during the past, I found it relatively easy to find training materials geared towards engineers that are new to that particular domain; I was surprised to find that material was incredibly hard to find in the case of genomics.
 ‌
 
