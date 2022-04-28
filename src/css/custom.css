@@ -4,6 +4,9 @@
  * work well for content-centric websites.
  */
 
+/** Proxima Nova and Sofia Pro **/
+@import url("https://use.typekit.net/knk2uku.css"); 
+
 /**
   * Color theme:
   *   White =>                   #FFFFFF,
@@ -23,6 +26,12 @@
   --color-eton-blue: #82caa3;
 }
 
+:root {
+  --font-proxima-nova: proxima-nova, system-ui, -apple-system, Segoe UI, Roboto, Ubuntu, Cantarell, Noto Sans, sans-serif, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  --font-sofia-pro: sofia-pro, system-ui, -apple-system, Segoe UI, Roboto, Ubuntu, Cantarell, Noto Sans, sans-serif, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  font-family: var(--font-sofia-pro); 
+}
+
 /* You can override the default Infima variables here. */
 :root {
   --ifm-color-primary: var(--color-blue-pigment);
@@ -38,6 +47,8 @@
   --ifm-navbar-link-color: var(--color-white);
   --ifm-navbar-link-hover-color: #c7d2fe;
   --ifm-navbar-shadow: none;
+
+  --ifm-heading-font-family: var(--font-proxima-nova);
 }
 
 /* For readability concerns, you should choose a lighter palette in dark mode. */
@@ -71,6 +82,14 @@
 .hero {
   height: 100vh;
   margin-top: -60px;
+}
+
+.menu {
+  font-family: var(--font-proxima-nova);
+}
+
+.navbar {
+  font-family: var(--font-proxima-nova);
 }
 
 /* .footer--dark {
