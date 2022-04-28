@@ -72,6 +72,10 @@
   height: 100vh;
 }
 
+.main-wrapper {
+  margin-top: -60px;
+}
+
 /* .footer--dark {
   background-color: #18191a !important;
 } */
