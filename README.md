@@ -4,44 +4,29 @@
   </a>
 </p>
 
-# Website
+----
 
-This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
+[Learn Genomics] is a guide that aims to introduce the subject of genomics to software engineers and data scientists in a palatable, straightforward manner. It was originally written by software engineers at St. Jude Children's Research Hospital, and now it has grown to a community-maintained project.
 
-### Installation
+### Quickstart
 
+The guide is built on top of [Docusaurus 2] with some simple, custom theming added on top. 
+If you wish to build the guide locally, you can run the following commands:
+
+```bash
+# install the dependencies needed
+$ npm install
+
+# run a livereloading site
+$ npm start
 ```
-$ yarn
-```
 
-### Local Development
+If you wish to build a static version of the site, you can do the following:
 
-```
-$ yarn start
-```
-
-This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
-
-### Build
-
-```
+```bash
+# build a static version of the site in the build/ directory.
 $ yarn build
 ```
 
-This command generates static content into the `build` directory and can be served using any static contents hosting service.
-
-### Deployment
-
-Using SSH:
-
-```
-$ USE_SSH=true yarn deploy
-```
-
-Not using SSH:
-
-```
-$ GIT_USER=<Your GitHub username> yarn deploy
-```
-
-If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
+[Learn Genomics]: https://learngenomics.dev
+[Docusaurus 2]: https://docusaurus.io/
