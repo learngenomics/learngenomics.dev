@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="https://github.com/learngenomics/learngenomics.dev">
+    <img src="https://github.com/learngenomics/learngenomics.dev/raw/main/repo-assets/github-readme-header.png" width="800" title="Learn Genomics README header"></a>
+  </a>
+</p>
+
 # Website
 
 This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
