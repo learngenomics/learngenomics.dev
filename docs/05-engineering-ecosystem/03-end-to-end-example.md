@@ -82,8 +82,8 @@ genome which our analyses will be based off of. In this case, we will use the
 `GRCh38_no_alt` analysis set.
 
 ```bash
-wget ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/001/405/GCA_000001405.15_GRCh38/seqs_for_alignment_pipelines.ucsc_ids/GCA_000001405.15_GRCh38_no_alt_analysis_set.fna.gz -O GRCh38_no_alt.fa
-gunzip GRCh38_no_alt.fa
+wget ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/001/405/GCA_000001405.15_GRCh38/seqs_for_alignment_pipelines.ucsc_ids/GCA_000001405.15_GRCh38_no_alt_analysis_set.fna.gz -O GRCh38_no_alt.fa.gz
+gunzip GRCh38_no_alt.fa.gz
 ```
 
 ## Index the reference genome
