@@ -74,7 +74,7 @@
 }
 
 /** Targets the little dark and light switch in the navbar **/
-.clean-btn {
+.navbar .clean-btn {
   color: var(--color-white) !important;
 }
 
