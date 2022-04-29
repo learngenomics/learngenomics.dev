@@ -1,7 +1,6 @@
----
-title: "Translation: Decoding the Transcript"
-track: Biological Foundations
----
+# Translation
+
+## Decoding the Transcript
 
 After DNA is transcribed to RNA and the RNA is spliced, the next step in protein production is translation. The genetic code that cells use to translate RNA to protein is universally preserved across organisms. So you, your dog, and the lettuce in your salad all read and translate the genetic code the same. This helps scientists determine which changes in a gene have functional consequences by comparing transcripts from different species. Further, the universality of this code makes modeling genetic diseases in an animal like mice informative.
 

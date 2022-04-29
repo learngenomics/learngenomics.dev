@@ -1,7 +1,6 @@
----
-title: Genomic Regions and Transcription
-track: Biological Foundations
----
+# Transcription
+
+## Genomic Regions and Transcription
 
 Given that a primary function of DNA is to guide the production of proteins, it might be assumed that genomic DNA is dominated by the sequences of genes that encode proteins. Somewhat counterintuitively, this is not the case. In fact, it is estimated that [only 1% of the human genome is part of a "coding region"](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3439153/), meaning the region contains information used to create proteins. The function of the other 99%, known as "non-coding regions" of the genome, is an area of active research.
 

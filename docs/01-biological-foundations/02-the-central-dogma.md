@@ -1,7 +1,6 @@
----
-title: The Central Dogma of Molecular Biology
-track: Biological Foundations
----
+# The Central Dogma 
+
+## Introduction
 
 Essential to understanding the biology driving computational genomics analyses is an understanding of the "Central Dogma of Molecular Biology". The [Wikipedia page](https://en.wikipedia.org/wiki/Central_dogma_of_molecular_biology) for the Central Dogma is incredibly detailed. However, an overview and a simplified figure depict the process below.
 
