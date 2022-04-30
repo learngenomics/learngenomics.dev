@@ -5,7 +5,7 @@
  */
 
 /** Proxima Nova and Sofia Pro **/
-@import url("https://use.typekit.net/knk2uku.css"); 
+@import url("https://use.typekit.net/knk2uku.css");
 
 /**
   * Color theme:
@@ -27,7 +27,10 @@
 }
 
 :root {
-  --font-proxima-nova: proxima-nova, system-ui, -apple-system, Segoe UI, Roboto, Ubuntu, Cantarell, Noto Sans, sans-serif, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  --font-proxima-nova: proxima-nova, system-ui, -apple-system, Segoe UI, Roboto,
+    Ubuntu, Cantarell, Noto Sans, sans-serif, BlinkMacSystemFont, "Segoe UI",
+    Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji",
+    "Segoe UI Symbol";
   /* --font-sofia-pro: sofia-pro, system-ui, -apple-system, Segoe UI, Roboto, Ubuntu, Cantarell, Noto Sans, sans-serif, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol"; */
   /* font-family: var(--font-sofia-pro);  */
 }
@@ -42,6 +45,10 @@
   --ifm-color-primary-lighter: #a5b4fc;
   --ifm-color-primary-lightest: #c7d2fe;
   --ifm-code-font-size: 95%;
+
+  --ifm-color-secondary: #059669; /* var(--color-eton-blue) */
+  --ifm-color-secondary-dark: #047857;
+  --ifm-hero-button-color: var(--color-white);
 
   --ifm-navbar-background-color: var(--color-blue-pigment);
   --ifm-navbar-link-color: var(--color-white);
@@ -82,6 +89,15 @@
 .hero {
   height: 100vh;
   margin-top: -60px;
+}
+
+.hero .button.button--secondary {
+  color: var(--color-white) !important;
+}
+
+.hero__title {
+  font-size: 2.5rem;
+  max-width: 500px;
 }
 
 .menu {

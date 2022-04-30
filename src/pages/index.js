@@ -9,11 +9,29 @@ import LogoFull from "@site/static/img/learngenomics-logo-full.svg";
 function HomepageHeader() {
   const { siteConfig } = useDocusaurusContext();
   return (
-    <header className={clsx("hero hero--primary", styles.heroBanner)}>
-      <div className="container">
-        <LogoFull height="256" />
-        <h1 className="hero__title">{siteConfig.title}</h1>
-        <p className="hero__subtitle">{siteConfig.tagline}</p>
+    <header
+      className={clsx("hero hero--primary", styles.heroBanner)}
+      style={{ padding: "0" }}
+    >
+      <div
+        className="container"
+        style={{
+          backgroundImage: "url(img/BG-texture.svg)",
+          backgroundRepeat: "no-repeat",
+          backgroundPosition: "center center",
+          backgroundSize: "100vh 100vw",
+          height: "100vh",
+          display: "flex",
+          alignItems: "center",
+          justifyContent: "center",
+          flexDirection: "column",
+        }}
+      >
+        <LogoFull height="200" style={{ paddingBottom: "20px" }} />
+        <h1 className="hero__title" style={{ paddingBottom: "20px" }}>
+          {siteConfig.title}
+        </h1>
+        {/* <p className="hero__subtitle">{siteConfig.tagline}</p> */}
         <div className={styles.buttons}>
           <Link
             className="button button--secondary button--lg"
