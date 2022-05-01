@@ -41,5 +41,6 @@ are still important (examples of important non-coding genomic sequences
 include [transcription factor binding
 sites](https://en.wikipedia.org/wiki/Transcription_factor) and [super-enhancers](https://en.wikipedia.org/wiki/Super-enhancer)).
 The effect of variations in non-coding DNA are not as easily interpreted as exonic
-variants, but frequently they are significant in disease and are discussed in
-the [Genomic Variation](../02-genomic-variation/index.md) section of this guide.
+variants, but frequently they are significant in disease and are discussed in more
+detail within the [Genomic Variation](../02-genomic-variation/index.md) section of this
+guide.
