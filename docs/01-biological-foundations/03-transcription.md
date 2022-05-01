@@ -21,8 +21,7 @@ are included in the final recipe are called the **exons**, while the sections o
 sequence that are spliced out of the recipe are called **introns**. The figure below
 depicts how introns and exons are related to the final mRNA recipe molecule.
 
-![Figure showing DNA being transcribed into immature RNA and then eventually spliced to
-mature messenger RNA.](../images/1.3-DNA-to-mRNA.jpg)
+![Figure showing DNA being transcribed into immature RNA and then eventually spliced to mature messenger RNA.](../images/1.3-DNA-to-mRNA.jpg)
 
 ## Bakery Analogy
 

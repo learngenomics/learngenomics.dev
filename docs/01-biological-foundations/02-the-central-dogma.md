@@ -8,8 +8,7 @@ page](https://en.wikipedia.org/wiki/Central_dogma_of_molecular_biology) for the 
 Dogma is incredibly detailed. However, an overview and a simplified figure depict the
 process below.
 
-![The central dogma of molecular biology, with DNA being transcribed into RNA, and RNA
-being translated into a protein.](../images/1.2-Central-Dogma.jpg)
+![The central dogma of molecular biology, with DNA being transcribed into RNA, and RNA being translated into a protein.](../images/1.2-Central-Dogma.jpg)
 
 The key takeaways for our purposes are as follows:
 
