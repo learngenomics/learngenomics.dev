@@ -30,7 +30,9 @@ or "flavors" that can be added to tweak the final cake that is made. At one poin
 time, the cell may make a version of the gene above by including all four exons in the
 figure above. At some later point in time, the cell might make a version of this protein
 only including exons 1, 3, 4, which would have a slightly different effect. These events
-are called **alternative splicing** events and are an area of active research.
+are called **alternative splicing** events and are an area of active research (you can
+learn more about alternative splicing in 
+[the relevant advanced topics guide](../06-advanced-topics/alternative-splicing.md)).
 
 Variations in the exonic regions of the genome can significantly change which parts are
 used to assemble a protein, thereby, changing its function in a cell, like changing
@@ -40,4 +42,4 @@ include [transcription factor binding
 sites](https://en.wikipedia.org/wiki/Transcription_factor) and [super-enhancers](https://en.wikipedia.org/wiki/Super-enhancer)).
 The effect of variations in non-coding DNA are not as easily interpreted as exonic
 variants, but frequently they are significant in disease and are discussed in
-the "Genomic Variation" section of this guide.
+the [Genomic Variation](../02-genomic-variation/index.md) section of this guide.
