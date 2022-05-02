@@ -47,7 +47,7 @@ known as **strands**. Each base is actually a member of a **base pairs**, where
 nucleotides complement each other uniquely—'A's pair only with 'T's, and 'G's only with
 'C's. Up close, this structure resembles a spiral staircase as seen in the figure below.
 
-![](../images/1.1-DNA.jpg)
+![Figure showing computational model and then physical helix for DNA](../images/1.1-DNA.jpg)
 
 When cells divide, the spiral unwinds; each base pair is split; and the molecule is
 split into two strands, each one containing the information needed to replicate the

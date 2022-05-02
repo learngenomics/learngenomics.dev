@@ -8,21 +8,28 @@ is universally preserved across organisms. So you, your dog, and the lettuce in 
 salad all read and translate the genetic code the same. This helps scientists determine
 which changes in a gene have functional consequences by comparing transcripts from
 different species. Further, the universality of this code makes modeling genetic
-diseases in an animal like mice informative.
+diseases in animals—such as grafting cancer onto a mouse, known as a 
+**xenograft**—informative.
 
-The mRNA transcript is encoded in three-letter blocks known as **codons**. Codons
-specify that a particular protein building block, or **amino acid**, should be added to
-a growing protein chain. For example, translating from mRNA, "CAG" specifies to add a
-glutamine. As shown in Figure 1.4, other codons specify that translation should start or
-end at a particular spot. Because multiple codons stand for the same amino acid, some
-substitutions may not change which amino acid is present. This type of variation, where
-the mRNA sequence change but the amino acid sequence stays the same, are called "silent
-mutations." When codon variants change the amino acid, the effect ranges from
-insignificant to deleterious. Computational biologists use programs that incorporate
-knowledge of the codons and chemistry of proteins to predict the effect of a given
-variant.
+![Figure showing translation from mRNA to a protein](../images/1.4-mRNA-to-Protein.jpg)
 
-![](../images/1.4-Codons.jpg)
+The mRNA transcript is encoded in three-letter nucleotide blocks known as **codons**.
+Codons specify that a particular protein building block, or **amino acid**, should be
+added to a growing protein chain. For example, the mRNA sequence above has "CCU" in the
+second codon position. This codon instructs the protein assembling machinery of the cell
+to a Proline to the amino acid sequence at position two. 
+
+![Codon lookup table from mRNA nucleotide triplet](../images/1.5-codon-lookup-table.jpg)
+
+As shown in the amino acid lookup table above, other codons specify that translation
+should start or end at a particular spot. Because multiple triplets result in the same
+amino acid, some substitutions may not change which amino acid is added to the chain
+(e.g., if your triplet starts with "CG", the amino acid is always an arginine and the
+third nucleotide doesn't matter). This class of variation, where the mRNA sequence change
+but the amino acid sequence stays the same, are called "silent mutations". When codon
+variants change the amino acid, the effect ranges from insignificant to deleterious.
+Computational biologists use programs that incorporate knowledge of the codons and
+chemistry of proteins to predict the effect of a given variant.
 
 As a short aside, DNA and RNA use different coding alphabets. That is, in a mRNA
 transcript, the DNA base thymine (T) is substituted by uracil (U).
@@ -46,3 +53,5 @@ moves a reading frame dramatically alters the protein product. For example, the 
 read would produce met, ala and ala while the second would produce trp, his and val.
 Mutations that change which blocks of three bases are used as codons are
 called **frameshift** mutations.
+
+![Demonstration of the affect of reading frames on translation](../images/1.6-reading-frames.jpg)
