@@ -22,6 +22,7 @@ function HomepageHeader() {
           backgroundSize: "100vh 100vw",
           height: "100vh",
           width: "100vw",
+          minWidth: "100vw",
           display: "flex",
           alignItems: "center",
           justifyContent: "center",
