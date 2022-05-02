@@ -11,6 +11,8 @@ the phenotype and the mutations and variants make up the genotype. In genomics, 
 seek to link genotypes to phenotypes to improve diagnoses and understand how cancer
 works.
 
+![Figure showing the relationship between a genotype, a phenotype, and a haplotype](../images/1.7-genotype-phenotype-haplotype.jpg)
+
 Recall that each human genome is composed of pairs of chromosomes, one inherited from
 each parent. That means, with a few exceptions, nearly every gene has two copies. Often
 the two DNA sequences of that encoded gene differ. Each distinct copy is
