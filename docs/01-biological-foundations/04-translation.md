@@ -11,6 +11,13 @@ different species. Further, the universality of this code makes modeling genetic
 diseases in animals—such as grafting cancer onto a mouse, known as a 
 **xenograft**—informative.
 
+:::info
+
+As a short aside, DNA and RNA use different coding alphabets: in a mRNA
+transcript, the DNA base thymine (T) is substituted by uracil (U). Thus, for all of the
+figures referencing mRNA, we will use U in the place of T.
+:::
+
 ![Figure showing translation from mRNA to a protein](../images/1.4-mRNA-to-Protein.jpg)
 
 The mRNA transcript is encoded in three-letter nucleotide blocks known as **codons**.
@@ -19,39 +26,38 @@ added to a growing protein chain. For example, the mRNA sequence above has "CCU"
 second codon position. This codon instructs the protein assembling machinery of the cell
 to a Proline to the amino acid sequence at position two. 
 
+As shown in the amino acid lookup table below, other codons specify that translation
+should start or stop at a particular position. Further, multiple triplets translate to
+the same amino acid, some changes to the nucleotide sequence may not change which amino
+acid is added to the growing protein chain (e.g., if your triplet starts with "CG", the
+amino acid is always an arginine and the third nucleotide doesn't matter).
+
+This class of variation, where the mRNA sequence changes but the resulting protein
+remains the same, is called a "silent mutation". There are many effects that changes in
+the mRNA sequence can have on the final protein byproduct, ranging from insignificant to
+deleterious. Knowledge of the codons and chemistry of proteins are used to predict
+the effect of a given variant on the resulting protein.
+
 ![Codon lookup table from mRNA nucleotide triplet](../images/1.5-codon-lookup-table.jpg)
-
-As shown in the amino acid lookup table above, other codons specify that translation
-should start or end at a particular spot. Because multiple triplets result in the same
-amino acid, some substitutions may not change which amino acid is added to the chain
-(e.g., if your triplet starts with "CG", the amino acid is always an arginine and the
-third nucleotide doesn't matter). This class of variation, where the mRNA sequence change
-but the amino acid sequence stays the same, are called "silent mutations". When codon
-variants change the amino acid, the effect ranges from insignificant to deleterious.
-Computational biologists use programs that incorporate knowledge of the codons and
-chemistry of proteins to predict the effect of a given variant.
-
-As a short aside, DNA and RNA use different coding alphabets. That is, in a mRNA
-transcript, the DNA base thymine (T) is substituted by uracil (U).
-
-| **Molecule** | **Alphabet**                                                               |
-| ------------ | -------------------------------------------------------------------------- |
-| DNA          | ACGT                                                                       |
-| RNA          | ACGU (Uracil replaces Thymine, i.e., U replaces T)                         |
-| Proteins     | Uses a series of triplets in RNA (codons) to encode an amino acid sequence |
 
 ## Reading Frames
 
-The accuracy of this process is dependent where you start. The three-letter code, and
+Of course, any time you are decoding one alphabet into another, the accuracy of the
+process depends on your starting in the correct location. The three-letter code, and
 the resulting protein, will be completely different if translation starts on the first,
-second or third letter. For example, consider the sequence "AUGGCACGUUG". If translation
-starts at the first base, the cell reads "AUG"s, "GCA" and "CGU"; and if you start at
-the second base, the sequence would read "UGG", "CAC", and "GUU" . These options are
-referred to as **reading frames**, where the functional or **open** reading frame is one
-that begins with the start codon "AUG". Changes to the sequence that starts, stops or
-moves a reading frame dramatically alters the protein product. For example, the first
-read would produce met, ala and ala while the second would produce trp, his and val.
-Mutations that change which blocks of three bases are used as codons are
-called **frameshift** mutations.
+second or third nucleotide. 
 
 ![Demonstration of the affect of reading frames on translation](../images/1.6-reading-frames.jpg)
+
+Consider the sequence in the figure above (a contrived example, but useful for our
+illustration here). If translation starts correctly at the first nucleotide, then the
+translation machinery correctly reads a start codon ("AUG" or Methionine), and then reads the
+following amino acids correctly. If the machinery were to start one nucleotide shifted
+to the right, it would read "UGC" (resulting in a Cysteine) and then a completely
+different protein would be made.
+
+These different scenarios are referred to as **reading frames**, where the functional
+or **open** reading frame is one that begins with the start codon "AUG" (resulting in
+the Methionine). Changes to the sequence that starts, stops or moves a reading frame
+dramatically alters the protein product. Mutations that change which
+blocks of three nucleotides are used as codons are called **frameshift** mutations.
