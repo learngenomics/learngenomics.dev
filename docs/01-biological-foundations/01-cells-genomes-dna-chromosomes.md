@@ -26,11 +26,11 @@ the cell alive and executing its specific function.
 To illustrate this phenomenon, imagine the cell as a bakery that makes many different
 types of cakes. In this analogy, the genome stored within the DNA is the master recipe
 book containing more than 20,000 different cake recipes (genes). The physical cakes that
-are made from these recipes are the proteins. Notably, you may have limited numbers of
-the gene (generally two copies in the case of humans), but you may make thousands or
-more cakes from those two recipes that are written down. Depending on the type of cell,
-the mixture of different cake flavors, their quantities, and how they interact together
-will be different.
+are made from these recipes are the proteins. Notably, there are a limited number of
+copies of the recipe/gene (two copies in the normal case for humans), but you may make
+thousands or more physical cakes from those recipes. Depending on the type of cell, the
+mixture of different cake flavors, their quantities, and how they interact together will
+be different.
 
 Keep an eye on this analogy: we will refer back to and build upon it a number of times
 during the course of this guide.
@@ -41,7 +41,9 @@ Conceptually, you can think of DNA laid end-to-end as a ~3 billion character lon
 consisting only of 'A's, 'C's, 'T's and 'G's. This string and any substring contained
 within are commonly referred to as genomic **sequences**. These characters represent the
 physical Adenine, Guanine, Thymine, and Cytosine **bases** (or **nucleotides**)
-respectively. Importantly, though it's easy to conceptualize DNA as a single, very long
+respectively.
+
+Importantly, though it's easy to conceptualize DNA as a single, very long
 string, the reality is more complex. DNA is comprised of two complementary sequences
 known as **strands**. Each base is actually a member of a **base pairs**, whereby
 nucleotides complement each other uniquely—'A's pair only with 'T's, and 'G's only with
