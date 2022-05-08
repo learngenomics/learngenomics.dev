@@ -13,11 +13,11 @@ constantly evolving?
 ## Reference Genome 
 
 At least for the moment, the answer is "we don't". The current solution chooses
-practicality over the ideal state of things: there is, in fact, a single model of the
-human genome known as the **reference genome** that attempts to recapitulate a consensus
-representation for the human genome. This consensus model is curated by the [Genome
-Reference Consortium (GRC)], and **patches** to the genome are released on a regular
-basis to further improve the model as we learn more about the human genome.
+practicality over the ideal state of things: there is, in fact, a single model known as
+the **reference genome** that attempts to recapitulate a consensus representation for
+the human genome. This consensus model is curated by the [Genome Reference Consortium
+(GRC)], and **patches** to the genome are released on a regular basis to further improve
+the model as we learn more about the human genome.
 
 Genomes for multiple species are maintained by the GRC, and you can view them on the
 [GRC's website](https://www.ncbi.nlm.nih.gov/grc/data). In the past, the naming
