@@ -65,4 +65,4 @@ Studies that consist only of germline samples are general useful for discovering
 
 
 [rp11]: https://www.theatlantic.com/science/archive/2018/11/human-genome-300-million-missing-letters-dna/576481/
-[Genome Reference Consortium]: https://www.ncbi.nlm.nih.gov/grc
+[Genome Reference Consortium (GRC)]: https://www.ncbi.nlm.nih.gov/grc
