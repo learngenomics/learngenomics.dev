@@ -32,8 +32,10 @@ thousands or more physical cakes from those recipes. Depending on the type of ce
 mixture of different cake flavors, their quantities, and how they interact together will
 be different.
 
+:::tip
 Keep an eye on this analogy: we will refer back to and build upon it a number of times
 during the course of this guide.
+:::
 
 ## A Mental Model for DNA 
 
