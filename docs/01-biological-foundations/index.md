@@ -12,7 +12,9 @@ concepts are complex, but the they can be summarized in general processes that a
 easier to understand. Further, the methods for measuring and analyzing genomes have
 matured and can be distilled to key features which we will cover here.
 
+:::info
 Everything in this guide refers to eukaryotic molecular biology, which is the study of
 organisms whose DNA is enclosed within a nucleus. Broadly speaking, most familiar
 species are eukaryotes, except bacteria which has DNA spread throughout the cell. At
 times, this document will be geared towards the sequencing of human cells specifically.
+:::
