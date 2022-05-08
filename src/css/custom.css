@@ -52,13 +52,18 @@
 
   --ifm-navbar-background-color: var(--color-blue-pigment);
   --ifm-navbar-link-color: var(--color-white);
-  --ifm-menu-color: var(--color-white);
-  --ifm-menu-color-active: var(--color-white);
-  --ifm-menu-color-background-active: rgba(255, 255, 255, 0.05);
   --ifm-navbar-link-hover-color: #c7d2fe;
   --ifm-navbar-shadow: none;
 
   --ifm-heading-font-family: var(--font-proxima-nova);
+}
+
+@media screen and (max-width: 996px) {
+  :root {
+    --ifm-menu-color: var(--color-white);
+    --ifm-menu-color-active: var(--color-white);
+    --ifm-menu-color-background-active: rgba(255, 255, 255, 0.05);
+  }
 }
 
 /* For readability concerns, you should choose a lighter palette in dark mode. */
