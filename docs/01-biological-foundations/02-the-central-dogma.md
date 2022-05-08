@@ -34,7 +34,8 @@ these staff members _transcribe_ a copy of a particular recipe on a piece of pap
 (analogous to RNA transcripts). These working copies of the the recipe are then carried
 out of the back office are given to the baking staff on the baking floor. Last, the
 baking staff uses these working copies to bake any number of physical cakes (analogous
-to proteins). Eventually, the working copies of the recipes are worn out and degrade. 
+to proteins). Eventually, the working copies of the recipes are worn out and degrade,
+rendering them unable to be used by the baking staff. 
 
 A few important points as we expand our understanding: 
 
