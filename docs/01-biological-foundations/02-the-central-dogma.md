@@ -48,5 +48,5 @@ A few important points as we expand our understanding:
   processes. These can be transient, and cells have built in failsafe mechanisms to
   identify and neutralize the effects of these mistakes. However, these mistakes can
   become the cornerstone for disease. As you can imagine, the further upstream in this
-  process a mistake occurs (and especially if a mistake is made in the master recipe
-  book), the higher the potential damage it can cause.
+  process a mistake occurs (and especially if a mistake is persisted in the master
+  recipe book), the higher the potential damage it can cause.
