@@ -23,7 +23,7 @@ If you wish to build a static version of the site, you can do the following:
 
 ```bash
 # build a static version of the site in the build/ directory.
-$ yarn build
+$ npm run build
 ```
 
 [Learn Genomics]: https://learngenomics.dev
