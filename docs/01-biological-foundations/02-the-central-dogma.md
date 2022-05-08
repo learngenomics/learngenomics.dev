@@ -46,7 +46,7 @@ A few important points as we expand our understanding:
   at the same time, and more physical cakes of that type can be made. 
 - Next, occasionally mistakes are made in either the transcription or translation
   processes. These can be transient, and cells have built in failsafe mechanisms to
-  identify and neutralize the effects of these mistakes. However, these patterns of
-  these mistakes being made can become the cornerstone for disease. As you can imagine,
-  the further upstream in this process a mistake occurs (and especially if a mistake is
-  made in the master recipe book), the higher the potential damage it can cause.
+  identify and neutralize the effects of these mistakes. However, these mistakes can
+  become the cornerstone for disease. As you can imagine, the further upstream in this
+  process a mistake occurs (and especially if a mistake is made in the master recipe
+  book), the higher the potential damage it can cause.
