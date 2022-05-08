@@ -45,7 +45,7 @@ A few important points as we expand our understanding:
   the recipe are floating around on the bakery floor, more cooks can work on that recipe
   at the same time, and more physical cakes of that type can be made. 
 - Next, occasionally mistakes are made in either the transcription or translation
-  processes. These can be transient, and our cells have built in failsafe mechanisms to
+  processes. These can be transient, and cells have built in failsafe mechanisms to
   identify and neutralize the effects of these mistakes. However, these patterns of
   these mistakes being made can become the cornerstone for disease. As you can imagine,
   the further upstream in this process a mistake occurs (and especially if a mistake is
