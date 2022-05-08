@@ -25,16 +25,16 @@ The key takeaways for our purposes are as follows:
 
 ## The Bakery Revisited
 
-Let's continue to build upon our bakery analogy. We covered that DNA represents the
-complete recipe book for our bakery. In practice, this recipe book is kept locked away
-in the back office of the bakery (the nucleus of a cell). Only a few special staff
-members are allowed to go into the back office and read from the master recipe book.
-Rather than take the entire book out of the office when they leave, these staff members
-_transcribe_ a copy of a particular recipe on a piece of paper (analogous to RNA
-transcripts). These working copies of the the recipe are then carried out of the back
-office are given to the baking staff. Last, the baking staff uses these working copies
-to bake any number of physical cakes (analogous to proteins). Eventually, the working
-copies of the recipes are worn out and degrade. 
+Let's continue to build upon our bakery analogy. In the previous chapter, we covered
+that DNA represents the complete recipe book for our bakery. In practice, this recipe
+book is kept locked away in the back office of the bakery (the nucleus of a cell). Only
+a few special staff members are allowed to go into the back office and read from the
+master recipe book. Rather than take the entire book out of the office when they leave,
+these staff members _transcribe_ a copy of a particular recipe on a piece of paper
+(analogous to RNA transcripts). These working copies of the the recipe are then carried
+out of the back office are given to the baking staff. Last, the baking staff uses these
+working copies to bake any number of physical cakes (analogous to proteins). Eventually,
+the working copies of the recipes are worn out and degrade. 
 
 A few important points as we expand our understanding: 
 
