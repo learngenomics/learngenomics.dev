@@ -17,9 +17,9 @@ is physically encoded in a molecule called deoxyribonucleic acid or **DNA**. Amo
 things, DNA contains instructions for the assembly of tens of thousands of different
 molecular products. These instructions (or recipes) are called **genes**, and the
 physical, molecular products genes encode for are called **proteins**. Cells are
-constantly reading and interpreting the DNA code of genes in order to assemble various
-proteins. Each cell type in the body produces a complex ecosystem of proteins that keep
-the cell alive and executing its specific function.
+constantly reading and interpreting genes stored within the DNA in order to assemble
+various proteins. Each cell type in the body produces a complex ecosystem of proteins
+that keep the cell alive and executing its specific function.
 
 ### Bakery Analogy
 
