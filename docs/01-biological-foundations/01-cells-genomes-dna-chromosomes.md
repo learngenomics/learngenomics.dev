@@ -33,7 +33,7 @@ mixture of different cake flavors, their quantities, and how they interact toget
 be different.
 
 :::tip
-Keep an eye on this analogy: we will refer back to and build upon it a number of times
+Keep an eye on this analogy—we will refer back to and build upon it a number of times
 during the course of this guide.
 :::
 
